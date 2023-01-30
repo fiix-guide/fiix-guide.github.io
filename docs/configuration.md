@@ -19,3 +19,4 @@ Just the Docs has some specific configuration parameters that can be defined in 
 ![](../../assets/images/fiix1/image013.jpg)
 ![](../../assets/images/fiix1/image014.jpg)
 ![](../../assets/images/fiix1/image015.jpg)
+
