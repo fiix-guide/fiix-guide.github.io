@@ -1,22 +1,55 @@
 ---
 layout: default
-title: Configuration
+title: Hướng dẫn tạo trang Fiix Free Version
+
 nav_order: 2
 ---
 
-# Configuration
+# Hướng dẫn tạo trang Fiix Free Version
 {: .no_toc }
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's \_config.yml file.
-{: .fs-6 .fw-300 }
+Đây là tài liệu hướng dẫn tạo 1 hệ thống Fiix CMMS phiên bản dùng thử. 
+Nếu cần giải đáp thắc mắc, vui lòng liên hệ email [fiix@avenue-net.com](fiix@avenue-net.com).
+
+{: .important-title }
+> CHUẨN BỊ
+>
+> Trước khi thực hiện cài đặt, hãy đảm bảo máy tính của bạn đạt được các điều kiện theo đường dẫn sau: 
+[Technical requirements – Help Center](https://helpdesk.fiixsoftware.com/hc/en-us/articles/360049178531-Technical-requirements).
+
+## Các bước thực hiện
+**1**. Truy cập vào  [https://www.fiixsoftware.com](https://www.fiixsoftware.com).
+**2**. Chọn **Login**
 
 ![](../../assets/images/fiix1/image007.jpg)
-![](../../assets/images/fiix1/image008.jpg)
-![](../../assets/images/fiix1/image009.jpg)
-![](../../assets/images/fiix1/image010.jpg)
-![](../../assets/images/fiix1/image011.jpg)
-![](../../assets/images/fiix1/image012.jpg)
-![](../../assets/images/fiix1/image013.jpg)
-![](../../assets/images/fiix1/image014.jpg)
-![](../../assets/images/fiix1/image015.jpg)
 
+**3**. Chọn **Sign up**
+
+![](../../assets/images/fiix1/image008.jpg)
+
+**4**. Chọn **Sign up**
+
+![](../../assets/images/fiix1/image009.jpg)
+
+**5**. Điền đầy đủ các thông tin vào form. Chọn **Continue to your free CMMS**
+
+![](../../assets/images/fiix1/image010.jpg)
+
+**6**. Điền đầy đủ các thông tin vào form. Chọn **Finish your setup**
+
+![](../../assets/images/fiix1/image011.jpg)
+
+**7**. Bạn đã đăng ký thành công. Chọn **Get started** để tiếp tục
+
+![](../../assets/images/fiix1/image012.jpg)
+
+**8**. Đăng nhập với Email đã nhập ở bước 5 và mật khẩu ở bước 7
+
+![](../../assets/images/fiix1/image013.png)
+
+**9**. Lần đầu đăng nhập vào hệ thống, bạn cần chọn loại hình kinh doanh của mình (có thể bỏ qua và bổ sung sau)
+
+![](../../assets/images/fiix1/image014.png)
+ **Hoàn thành. Bạn đã tạo Fiix CMMS thành công**.
+
+![](../../assets/images/fiix1/image015.jpg)
